@@ -1,9 +1,0 @@
-div {width: 20mm; height: 15mm; font-size: 2em; overflow: auto;}
-
-em {width: 10mm; height: 4mm; font-size: 2em; vertical-align: middle;}
-
-em.inline-block {display: inline-block; width: 20mm; height: 15mm; font-size: 2em; vertical-align: baseline;}
-
-.flotte {float : right;}
-div.flotte {float : right; font-size: 1em;}
-
