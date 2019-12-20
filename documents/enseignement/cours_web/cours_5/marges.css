@@ -1,0 +1,18 @@
+h1 {margin-top: 5mm; margin-bottom: 10mm;}
+
+h2 {margin-top: 5mm; margin-bottom: 10mm;}
+
+h3 {margin-top: 5mm; margin-bottom: 10mm;}
+
+p {margin-top: 5mm; margin-bottom: 10mm;}
+
+.mm {font-size: 5mm;}
+.ex {font-size: 1.5ex;}
+.em {font-size: 1.5em;}
+h2.em {font-size: 1em;}
+.px {font-size: 20px;}
+.vw {font-size: 90%;}
+
+.min_max {min-width: 5mm; max-width: 20mm; max-height: 12mm}
+
+
