@@ -1,0 +1,5 @@
+.relatif {position : relative; top : -2mm; right : 5mm; }
+p {position : relative; top : 0mm; }
+.absolu {position : absolute; bottom : 2mm; right : 4mm; }
+.fixe {position : fixed; left : 40mm}
+
