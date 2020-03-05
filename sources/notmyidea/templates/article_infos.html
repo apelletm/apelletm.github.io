@@ -1,9 +1,9 @@
 <footer class="post-info">
-        {%<abbr class="published" title="{{ article.date.isoformat() }}">}
+        <abbr class="published" title="{{ article.date.isoformat() }}">
         {%        Published: {{ article.locale_date }}}
-        {%</abbr>}
+        </abbr>
         {% if article.modified %}
-	{%	<br />}
+		<br />
         <abbr class="modified" title="{{ article.modified.isoformat() }}">
                 Updated: {{ article.locale_modified }}
         </abbr>
