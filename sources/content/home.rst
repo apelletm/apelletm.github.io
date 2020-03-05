@@ -11,7 +11,7 @@
    :alt: picture of Alice Pellet--Mary
    :align: right
 
-Since November 2019, I am a post-doctoral researcher in the `COSIC team <https://www.esat.kuleuven.be/cosic/>`_ of KU Leuven, under the supervision of `Frederik Vercauteren <https://www.esat.kuleuven.be/cosic/people/frederik-vercauteren/>`_. I am currently working on algorithms to find short vectors in structured lattices.
+Since November 2019, I am a post-doctoral researcher in the `COSIC team <https://www.esat.kuleuven.be/cosic/>`_ of KU Leuven, under the supervision of `Frederik Vercauteren <https://www.esat.kuleuven.be/cosic/people/frederik-vercauteren/>`_. I am interested in lattice based cryptography, and more specifically in algorithms to compute short vectors in structured lattices.
 
 From September 2016 to October 2019, I was a PhD student in the `LIP <http://www.ens-lyon.fr/LIP/>`_ laboratory, ENS de Lyon, under the direction of `Damien Stehlé <http://perso.ens-lyon.fr/damien.stehle/>`_. During my PhD, I worked on structured lattices, as well as cryptanalysis of obfuscators and multilinear maps.
 
@@ -28,5 +28,5 @@ Information
 
 **Office :** B01.24
 
-**Resume :** `in Eglish <documents/cv_anglais.pdf>`_ or `in French <documents/cv.pdf>`_.
+**Resume :** `in English <documents/cv_anglais.pdf>`_ or `in French <documents/cv.pdf>`_.
 

@@ -6,12 +6,16 @@
 :authors: Alice Pellet--Mary
 :summary: Research page
 
+My research concerns lattice based cryptography. More specifically, I am interested in algorithmic questions related to algebraic lattices (i.e., algorithms for computing short vectors, relations between different algorithmic problems, relations between different algebraic structures...). Occasionally, I can also be interested in cryptanalysis of candidate obfuscators.
+
 
 Publications
 ============
 
 Conferences
 -----------
+
+- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, to appear at Eurocrypt 2020.
 
 - *An LLL algorithm for module lattices*, with `Changmin Lee <http://perso.ens-lyon.fr/changmin.lee/>`_, `Damien Stehlé <http://perso.ens-lyon.fr/damien.stehle/>`_ and `Alexandre Wallet <https://awallet.github.io/>`_, at Asiacrypt 2019. [`pdf <https://eprint.iacr.org/2019/1035.pdf>`__][`code <code/code-module-lll.zip>`__]
 
@@ -54,15 +58,17 @@ Conference talks
 
 Workshops
 ---------
-- *An LLL algorithm for module lattices*. Lattices: Geometry, Algorithms and Hardness, Berkeley, February 2020. [`slides <documents/presentations/Berkeley_Alice.pdf>`__]
+- *An LLL algorithm for module lattices*. Lattices: Geometry, Algorithms and Hardness, Simons Institute, Berkeley, February 2020. [`slides <documents/presentations/Berkeley_Alice.pdf>`__]
 
 - *Attacks on GGH13-based obfuscation*. Opacity workshop (Eurocrypt affiliated event), Darmstadt, May 2019. [`slides <documents/presentations/Opacity_Alice.pdf>`__]
 
 Seminars
 ---------
+- *Overview of recent algorithms for finding short vectors in ideal and module lattices*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
+
 - *An LLL algorithm for module lattices*. Seminar, Institut Fourier, Grenoble, January 2020. [`slides <documents/presentations/Seminaire_institut_Fourier.pdf>`__]
 
-- *An LLL algorithm for module lattices*. Groupe de travail de crypto basée sur les codes, Inria Paris, January 2020. (On the board, no slides. Here are the `manuscript notes <documents/presentations/notes_manuscrites_inria_Paris.pdf>`__ I wrote to prepare the talk, and here is the `animation <documents/presentations/Lagrange_Gauss.pdf>`__.)
+- *An LLL algorithm for module lattices*. Groupe de travail de crypto basée sur les codes, Inria Paris, January 2020. (On the board, no slides. Here are the `manuscript notes <documents/presentations/notes_manuscrites_inria_Paris.pdf>`__ I wrote to prepare the talk, and here is the one slide `animation <documents/presentations/Lagrange_Gauss.pdf>`__.)
 
 - *An LLL algorithm for module lattices*. Grace seminar, LIX, Palaiseau, December 2019. [`slides <documents/presentations/Seminaire_Grace_Alice.pdf>`__]
 
