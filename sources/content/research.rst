@@ -6,6 +6,10 @@
 :authors: Alice Pellet--Mary
 :summary: Research page
 
+
+Research interests
+===================
+
 My research concerns lattice based cryptography. More specifically, I am interested in algorithmic questions related to algebraic lattices (i.e., algorithms for computing short vectors, relations between different algorithmic problems, relations between different algebraic structures...). Occasionally, I can also be interested in cryptanalysis of candidate obfuscators.
 
 
