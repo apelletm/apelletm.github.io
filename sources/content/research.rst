@@ -68,7 +68,7 @@ Workshops
 
 Seminars
 ---------
-- *Overview of recent algorithms for finding short vectors in ideal and module lattices*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
+- *Overview of algorithms for Ideal-SVP and Module-SVP.*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
 
 - *An LLL algorithm for module lattices*. Seminar, Institut Fourier, Grenoble, January 2020. [`slides <documents/presentations/Seminaire_institut_Fourier.pdf>`__]
 
