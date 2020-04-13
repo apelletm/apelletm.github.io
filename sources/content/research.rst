@@ -19,7 +19,7 @@ Publications
 Conferences
 -----------
 
-- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, to appear at Eurocrypt 2020.
+- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, to appear at Eurocrypt 2020. [`pdf <https://eprint.iacr.org/2020/415.pdf>`__][`code <code/NLinFE_multiciphertexts_attack.sage>`__]
 
 - *An LLL algorithm for module lattices*, with `Changmin Lee <http://perso.ens-lyon.fr/changmin.lee/>`_, `Damien Stehlé <http://perso.ens-lyon.fr/damien.stehle/>`_ and `Alexandre Wallet <https://awallet.github.io/>`_, at Asiacrypt 2019. [`pdf <https://eprint.iacr.org/2019/1035.pdf>`__][`code <code/code-module-lll.zip>`__]
 
@@ -68,7 +68,7 @@ Workshops
 
 Seminars
 ---------
-- *Overview of algorithms for Ideal-SVP and Module-SVP.*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
+- *Overview of algorithms for Ideal-SVP and Module-SVP*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
 
 - *An LLL algorithm for module lattices*. Seminar, Institut Fourier, Grenoble, January 2020. [`slides <documents/presentations/Seminaire_institut_Fourier.pdf>`__]
 
