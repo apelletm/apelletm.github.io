@@ -28,5 +28,6 @@ Information
 
 **Office :** B01.24
 
-**Resume :** `in English <documents/cv_anglais.pdf>`_ or `in French <documents/cv.pdf>`_.
+..
+    **Resume :** `in English <documents/cv_anglais.pdf>`_ or `in French <documents/cv.pdf>`_.
 
