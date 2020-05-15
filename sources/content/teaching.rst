@@ -16,7 +16,7 @@ Teaching
 ---------
 - `Tutorials of Probabilities <proba.html>`_ for bachelor students. The `course <http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html>`__ is given by `Guillaume Aubrun <http://math.univ-lyon1.fr/~aubrun/index-english.html>`_.
 
-- `Introductory course in Web programming <https://perso.liris.cnrs.fr/pierre-antoine.champin/enseignement/intro-web/>`_ (html and css) for first year students at IUT de Lyon. The course's supervisor is `Pierre-Antoine Champin <https://perso.liris.cnrs.fr/pierre-antoine.champin/en/>`_ . Some `additional material <cours-web.html>`__ for the course.
+- `Introductory course in Web programming <https://perso.liris.cnrs.fr/pierre-antoine.champin/enseignement/intro-web/>`_ (html and css) for first year students at IUT de Lyon. The course's supervisor is `Pierre-Antoine Champin <https://perso.liris.cnrs.fr/pierre-antoine.champin/en/>`_. Some `additional material <cours-web.html>`__ for the course.
 
 2017-2018
 ---------

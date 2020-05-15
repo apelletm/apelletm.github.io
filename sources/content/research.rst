@@ -1,5 +1,5 @@
 :date: 2019-11-18
-:modified: 2020-04-13
+:modified: 2020-05-15
 :tags:
 :category: research
 :slug: research
@@ -19,7 +19,7 @@ Publications
 Conferences
 -----------
 
-- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, to appear at Eurocrypt 2020. [`pdf <https://eprint.iacr.org/2020/415.pdf>`__][`code <code/NLinFE_multiciphertexts_attack.sage>`__]
+- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, at Eurocrypt 2020. [`pdf <https://eprint.iacr.org/2020/415.pdf>`__][`code <code/NLinFE_multiciphertexts_attack.sage>`__]
 
 - *An LLL algorithm for module lattices*, with `Changmin Lee <http://perso.ens-lyon.fr/changmin.lee/>`_, `Damien Stehlé <http://perso.ens-lyon.fr/damien.stehle/>`_ and `Alexandre Wallet <https://awallet.github.io/>`_, at Asiacrypt 2019. [`pdf <https://eprint.iacr.org/2019/1035.pdf>`__][`code <code/code-module-lll.zip>`__]
 
@@ -52,6 +52,8 @@ Talks
 
 Conference talks
 -----------------
+- *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*. Eurocrypt 2020, virtual, May 2020. [`slides <documents/presentations/Eurocrypt_2020.pdf>`__]
+
 - *An LLL algorithm for module lattices*. Asiacrypt 2019, Kobe, December 2019. [`slides <documents/presentations/Asiacrypt_2019.pdf>`__]
 
 - *Approx-SVP in Ideal Lattices with Pre-Processing*. Eurocrypt 2019, Darmstadt, May 2019. [`slides <documents/presentations/Eurocrypt_2019.pdf>`__]
