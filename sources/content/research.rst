@@ -19,6 +19,8 @@ Publications
 Conferences
 -----------
 
+- *Random Self-reducibility of Ideal-SVP via Arakelov Random Walks*, with `Koen de Boer <http://koendeboer.com/>`_, `Léo Ducas <https://homepages.cwi.nl/~ducas/>`_ and `Benjamin Wesolowski <http://bweso.com/>`_, accepted at Crypto 2020. [`pdf <https://eprint.iacr.org/2020/297.pdf>`__]
+
 - *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*, with `Shweta Agrawal <https://www.cse.iitm.ac.in/~shwetaag/>`_, at Eurocrypt 2020. [`pdf <https://eprint.iacr.org/2020/415.pdf>`__][`code <code/NLinFE_multiciphertexts_attack.sage>`__]
 
 - *An LLL algorithm for module lattices*, with `Changmin Lee <http://perso.ens-lyon.fr/changmin.lee/>`_, `Damien Stehlé <http://perso.ens-lyon.fr/damien.stehle/>`_ and `Alexandre Wallet <https://awallet.github.io/>`_, at Asiacrypt 2019. [`pdf <https://eprint.iacr.org/2019/1035.pdf>`__][`code <code/code-module-lll.zip>`__]
