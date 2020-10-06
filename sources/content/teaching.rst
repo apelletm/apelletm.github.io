@@ -42,6 +42,7 @@ Teaching
 
 Popularization
 ===============
+
 I have written two blog posts for the *COSIC’s Guide to Crypto*. They are intended for master students or first year PhD students.
 
 - `Indistinguishability Obfuscation <https://www.esat.kuleuven.be/cosic/blog/program-obfuscation/>`_ [Update: this post is a bit outdated, as there have been recently multiple very promising articles constructing obfuscation from reasonably standard assumptions]

@@ -1,5 +1,5 @@
 :date: 2019-11-18
-:modified: 2020-06-04
+:modified: 2020-10-06
 :tags:
 :category: research
 :slug: research
@@ -72,6 +72,9 @@ Workshops
 
 Seminars
 ---------
+
+- *Introduction to lattice-based cryptography*. Webinar series on “Cryptography, Network Security and Cybersecurity”, organised by Maulana Abul Kalam Azad University of Technology, September 2020. [`slides <documents/presentations/lattice_based_crypto.pdf>`__]
+
 - *Overview of algorithms for Ideal-SVP and Module-SVP*. Lattices: Algorithms and Complexity seminar, Simons Institute, Berkeley, February 2020. (on the board)
 
 - *An LLL algorithm for module lattices*. Seminar, Institut Fourier, Grenoble, January 2020. [`slides <documents/presentations/Seminaire_institut_Fourier.pdf>`__]
