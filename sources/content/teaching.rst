@@ -1,5 +1,5 @@
 :date: 2019-11-18
-:modified: 2019-11-18
+:modified: 2020-10-06
 :tags:
 :category: teaching
 :slug: teaching
@@ -39,4 +39,10 @@ Teaching
 - Tutorials of Information Theory for Master 1 students. The `course <http://perso.ens-lyon.fr/omar.fawzi/teaching/it/index.html>`__ is given by `Omar Fawzi <http://perso.ens-lyon.fr/omar.fawzi/index.html>`_.
 
 - `Tutoring in maths <mise-a-niveau-maths.html>`_, for bachelor students who haven't done lot of mathematics before.
+
+Popularization
+===============
+I have written two blog posts for the *COSIC’s Guide to Crypto*. They are intended for master students or first year PhD students.
+- `Indistinguishability Obfuscation <https://www.esat.kuleuven.be/cosic/blog/program-obfuscation/>`_ [Update: this post is a bit outdated, as there have been recently multiple very promising articles constructing obfuscation from reasonably standard assumptions]
+- `Finding short vectors in lattices <https://www.esat.kuleuven.be/cosic/blog/lattice-reduction/>`_
 
