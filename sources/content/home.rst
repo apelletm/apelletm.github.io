@@ -7,7 +7,7 @@
 :summary: Home page of my webpage
 
 .. image:: images/Alice_Pellet_Mary.jpg
-   :height: 200px
+   :height: 220px
    :alt: picture of Alice Pellet--Mary
    :align: right
 
