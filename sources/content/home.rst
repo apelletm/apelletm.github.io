@@ -24,17 +24,13 @@ Information
 
 **Mail :** alice 'dot' pellet-mary 'at' math.u-bordeaux 'dot' fr
 
-+----------------+----------------------------------------------+
-| **Address :**  | Alice Pellet-Mary                            |
-+----------------+----------------------------------------------+
-|                | Institut de mathématiques de Bordeaux        |
-+----------------+----------------------------------------------+
-|                | 351, cours de la Libération                  |
-+----------------+----------------------------------------------+
-|                | 33405 TALENCE cédex                          |
-+----------------+----------------------------------------------+
-|                | France                                       |
-+----------------+----------------------------------------------+
+**Address :**
+
+|    Alice Pellet-Mary
+|    Institut de mathématiques de Bordeaux
+|    351, cours de la Libération
+|    33405 TALENCE cédex
+|    France
 
 
 **Office :** 364
