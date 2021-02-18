@@ -6,8 +6,8 @@
 :authors: Alice Pellet--Mary
 :summary: Home page of my webpage
 
-.. image:: images/Kinderdijk.JPG
-   :height: 300px
+.. image:: images/Alice_Pellet_Mary.JPG
+   :height: 200px
    :alt: picture of Alice Pellet--Mary
    :align: right
 
