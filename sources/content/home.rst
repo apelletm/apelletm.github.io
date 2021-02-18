@@ -24,7 +24,8 @@ Information
 
 **Mail :** alice 'dot' pellet-mary 'at' math.u-bordeaux 'dot' fr
 
-**Address :**  
+**Address :**
+
 |    Alice Pellet-Mary
 |    Institut de mathématiques de Bordeaux
 |    351, cours de la Libération

@@ -10,6 +10,8 @@ Social
 
 List of people who need help to be indexed by google.
 
+- `My webpage on the IMB website <https://www.math.u-bordeaux.fr/IMB/fiche-personnelle?uid=apmary>`_
+
 - `Fabrice Mouhartem (Fabrice crypto) <https://fmouhart.epheme.re/>`_
 
 - `Marc Heinrich <http://liris.cnrs.fr/~mheinric/>`_
