@@ -9,7 +9,7 @@
 Mise à niveau en maths
 ######################
 
-Le polycopié des cours est disponible `ici <http://perso.ens-lyon.fr/alice.pellet___mary/documents/enseignement/rappels_maths.pdf>`_.
+Le polycopié des cours est disponible `ici <documents/enseignement/rappels_maths.pdf>`_.
 
 Si vous repérez des typos ou que vous voulez une correction pour un exercice, envoyez-moi un mail.
 
@@ -53,5 +53,3 @@ Plan du cours :
 	- Produit scalaire
 	- Produit vectoriel
 
-
-.. `caché <http://liris.cnrs.fr/~mheinric/index.html>`_
