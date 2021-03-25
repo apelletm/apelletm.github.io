@@ -54,8 +54,6 @@ Talks
 
 Conference talks
 -----------------
-- *Algorithmic problems over ideal lattices*. Discrete Mathematics, Codes and Cryptography eSeminar (Paris 8), virtual, March 2021. [`slides <documents/presentations/Seminaire_Diderot_Alice.pdf>`__]
-
 - *Indistinguishability Obfuscation Without Maps: Attacks and Fixes for Noisy Linear FE*. Eurocrypt 2020, virtual, May 2020. [`slides <documents/presentations/Eurocrypt_2020.pdf>`__]
 
 - *An LLL algorithm for module lattices*. Asiacrypt 2019, Kobe, December 2019. [`slides <documents/presentations/Asiacrypt_2019.pdf>`__]
@@ -74,6 +72,7 @@ Workshops
 
 Seminars
 ---------
+- *Algorithmic problems over ideal lattices*. Discrete Mathematics, Codes and Cryptography eSeminar (Paris 8), virtual, March 2021. [`slides <documents/presentations/Seminaire_Diderot_Alice.pdf>`__]
 
 - *Introduction to lattice-based cryptography*. Webinar series on “Cryptography, Network Security and Cybersecurity”, organised by Maulana Abul Kalam Azad University of Technology, September 2020. [`slides <documents/presentations/lattice_based_crypto.pdf>`__]
 
