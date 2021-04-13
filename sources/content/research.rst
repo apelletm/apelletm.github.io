@@ -72,6 +72,8 @@ Workshops
 
 Seminars
 ---------
+- *Sampling relatively factorizable elements in ideals of number Fields*. Caramba seminar (Loria, Nancy), virtual, April 2021. [`slides <documents/presentations/Seminaire_Nancy_Alice.pdf>`__]
+
 - *Algorithmic problems over ideal lattices*. Discrete Mathematics, Codes and Cryptography eSeminar (Paris 8), virtual, March 2021. [`slides <documents/presentations/Seminaire_Diderot_Alice.pdf>`__]
 
 - *Introduction to lattice-based cryptography*. Webinar series on “Cryptography, Network Security and Cybersecurity”, organised by Maulana Abul Kalam Azad University of Technology, September 2020. [`slides <documents/presentations/lattice_based_crypto.pdf>`__]
