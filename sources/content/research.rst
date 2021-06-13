@@ -62,7 +62,7 @@ Conference talks
 
 - *On the Statistical Leak of the GGH13 Multilinear Map and some Variants*. Asiacrypt 2018, Brisbane, December 2018. [`slides <documents/presentations/Asiacrypt_2018.pdf>`__]
 
-- *Cryptanalysis of branching program obfuscators* (joint talk with Minki Hhan). Crypto 2018, Santa Barbara, August 2018. [`slides <documents/presentations/crypto-2018-presentation.pdf>`__]
+- *Cryptanalysis of branching program obfuscators* (joint talk with `Minki Hhan <https://hhanmk.github.io/>`_). Crypto 2018, Santa Barbara, August 2018. [`slides <documents/presentations/crypto-2018-presentation.pdf>`__]
 
 Workshops
 ---------
@@ -72,7 +72,12 @@ Workshops
 
 Seminars
 ---------
-- *Sampling relatively factorizable elements in ideals of number Fields*. Caramba seminar (Loria, Nancy), virtual, April 2021. [`slides <documents/presentations/Seminaire_Nancy_Alice.pdf>`__]
+
+- *On the hardness of the NTRU problem*. Lattice reunion (Simons Institute, Berkeley), virtual, June 2021. [`slides <documents/presentations/NTRU_Simons_reunion_Alice.pdf>`__]
+
+- *Random Self-reducibility of Ideal-SVP via Arakelov Random Walks*. Séminaire de théorie des nombres, Bordeaux, May 2021. (on a virtual board)
+
+- *Sampling relatively factorizable elements in ideals of number fields*. Caramba seminar (Loria, Nancy), virtual, April 2021. [`slides <documents/presentations/Seminaire_Nancy_Alice.pdf>`__]
 
 - *Algorithmic problems over ideal lattices*. Discrete Mathematics, Codes and Cryptography eSeminar (Paris 8), virtual, March 2021. [`slides <documents/presentations/Seminaire_Diderot_Alice.pdf>`__]
 
