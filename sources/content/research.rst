@@ -73,6 +73,8 @@ Workshops
 Seminars
 ---------
 
+- *Algebraic lattices in cryptography*. Journées d'inauguration de la fédération MARGAUx, La Rochelle, June 2021. [`slides <documents/presentations/MARGAUx_Alice.pdf>`__]
+
 - *On the hardness of the NTRU problem*. Lattice reunion (Simons Institute, Berkeley), virtual, June 2021. [`slides <documents/presentations/NTRU_Simons_reunion_Alice.pdf>`__]
 
 - *Random Self-reducibility of Ideal-SVP via Arakelov Random Walks*. Séminaire de théorie des nombres, Bordeaux, May 2021. (on a virtual board)
