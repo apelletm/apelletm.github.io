@@ -73,7 +73,7 @@ Workshops
 Seminars
 ---------
 
-- *On the hardness of the NTRU problem*. Student seminar at CWI (Amsterdam), virtual, June 2021. [`slides <documents/presentations/seminar_CWI_Alice.pdf>`__]
+- *On the hardness of the NTRU problem*. Student seminar at CWI (Amsterdam), virtual, July 2021. [`slides <documents/presentations/seminar_CWI_Alice.pdf>`__]
 
 - *Algebraic lattices in cryptography*. Journées d'inauguration de la fédération MARGAUx, La Rochelle, June 2021. [`slides <documents/presentations/MARGAUx_Alice.pdf>`__]
 
